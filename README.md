@@ -2,7 +2,7 @@
 
 ## Outline
 This page describes Vietnamese NLP tools, resources and some computation techniques related on Vietnamese.
-If there is something missing or wrong information, please send an issue.
+If there is something missing or wrong information, please create an issue or pull request.
 
 (Sorry, I don't speak Vietnamese.)
 
